@@ -1,0 +1,21 @@
+Welcome to this project !
+
+Modules you'll need to install before :
+  @tkinter
+  @pymysql
+  @Pillow
+  @pygame
+  @mutagen
+  
+This program plays song choosed by the user.
+Performs actions like :
+  @play
+  @pause
+  @stop
+  @mute
+  @volume slider
+  @rewind
+  @forward
+
+Thanks for visiting !
+  #Platform - macintosh
