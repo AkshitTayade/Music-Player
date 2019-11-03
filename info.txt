@@ -7,7 +7,7 @@ Modules you'll need to install before :
   @pygame
   @mutagen
   
-This program plays song choosed by the user.
+This program plays song choosed by the user from any directory in your disk.
 Performs actions like :
   @play
   @pause
@@ -18,4 +18,4 @@ Performs actions like :
   @forward
 
 Thanks for visiting !
-  #Platform - macintosh
+  #Platform - macOS
